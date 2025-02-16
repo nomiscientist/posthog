@@ -11,7 +11,6 @@ __pycache__/
 .dlt
 .dmypy.json
 .DS_Store
-.env
 .eslintcache
 .idea
 .mypy_cache
@@ -22,7 +21,6 @@ __pycache__/
 .temporal-worker-settings
 .turbo
 .venv
-.vscode/*
 .wokeignore
 .yalc
 *-esbuild-bundle-visualization.html
@@ -89,3 +87,4 @@ yalc.lock
 .flox/env/manifest.lock
 
 playwright/.auth/
+config.bat
